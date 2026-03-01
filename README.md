@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋 I'm Vivek Bhati</h1>
-<h3 align="center">Senior Software Engineer | Full Stack Builder | AI-Augmented Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Vivek+Bhati;Senior+Software+Engineer;Full+Stack+Developer;AI-Augmented+Engineer;React+%7C+Node.js+%7C+System+Design" />
+</p>
 
 <p align="center">
   📍 Jersey City, NJ | 🇺🇸 H1B | 11+ Years Experience  

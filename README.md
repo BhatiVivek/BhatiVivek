@@ -1,74 +1,67 @@
-# 👋 Hi, I'm Vivek Bhati
+<h1 align="center">Hi 👋 I'm Vivek Bhati</h1>
+<h3 align="center">Senior Software Engineer | Full Stack Builder | AI-Augmented Developer</h3>
 
-🚀 Senior Software Engineer | Full Stack Developer | AI-Augmented Engineer  
-📍 Jersey City, NJ, USA  
-
----
-
-## 💡 About Me
-
-I am a Senior Software Engineer with 11+ years of experience building scalable web applications across frontend and backend systems. My expertise lies in React, modern JavaScript/TypeScript, and building performance-driven user experiences in enterprise environments.
-
-Currently working on large-scale financial platforms, contributing to frontend architecture, AEM integrations, GraphQL APIs, and secure production releases in CI/CD-driven environments.
-
-I am actively transitioning toward product-driven engineering and AI-integrated system design.
+<p align="center">
+  📍 Jersey City, NJ | 🇺🇸 H1B | 11+ Years Experience  
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### Frontend
-- React.js
-- Redux / Redux Toolkit
-- TypeScript
-- JavaScript (ES6+)
-- HTML5 / CSS3
-- Accessibility (WCAG)
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Basic Spring Boot integration knowledge
-
-### CMS & Enterprise
-- Adobe Experience Manager (AEM)
-- GraphQL
-- Adobe Analytics
-
-### DevOps & Tools
-- Git & GitHub
-- Jenkins (CI/CD environment)
-- AWS (working environment)
-- Fastly CDN
-- Nexus
-- Snyk (Security)
-
-### Testing
-- TDD / BDD
-- Mocha
-- Chai
-- Cucumber JS
-- Cypress
-- WireMock
+- 💻 11+ years building scalable enterprise web applications  
+- ⚛️ Strong in React, TypeScript, and performance-driven frontend architecture  
+- 🏗️ Experience with AEM, GraphQL, CI/CD environments, and secure production systems  
+- 🧠 Exploring AI-Augmented Development, RAG systems & Agentic workflows  
+- 🎯 Transitioning toward product-driven and AI-integrated system design  
 
 ---
 
-## 📚 Currently Exploring
+## 🧠 AI & Modern Engineering
 
-- System Design (HLD & LLD mastery)
-- AI-Augmented Development
-- RAG & Agentic AI systems
-- Full-stack AI SaaS architecture
-- Java + Spring Boot (for deeper backend expertise)
+![LLM](https://img.shields.io/badge/LLM-Integration-blue)
+![RAG](https://img.shields.io/badge/RAG-Systems-orange)
+![AI Agents](https://img.shields.io/badge/AI-Agents-red)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple)
+
+---
+
+## ⚛️ Frontend Stack
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
+![AEM](https://img.shields.io/badge/AEM-Enterprise-black)
 
 ---
 
-## 🎯 Career Goal
+## 🔧 Backend & DevOps
 
-To become a high-impact product engineer building scalable, performance-optimized, AI-integrated systems at global scale.
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-grey?logo=express)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI-red?logo=jenkins)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
 
 ---
+
+## 🧪 Testing & Quality
+
+![TDD](https://img.shields.io/badge/TDD-Practice-green)
+![Mocha](https://img.shields.io/badge/Mocha-Testing-brown?logo=mocha)
+![Chai](https://img.shields.io/badge/Chai-Assertion-A30701)
+![Cypress](https://img.shields.io/badge/Cypress-E2E-17202C?logo=cypress)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
 
 ## 📫 Connect With Me
 

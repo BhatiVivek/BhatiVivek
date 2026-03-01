@@ -72,9 +72,9 @@ To become a high-impact product engineer building scalable, performance-optimize
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your link here)
-- Portfolio: (Add if available)
-- Email: (Optional)
+- LinkedIn: (https://www.linkedin.com/in/vivek-bhati-94324063/)
+- Portfolio: (https://vivekbhati.vercel.app/)
+- Email: (vivekbhati9192@gmail.com)
 
 ---
 

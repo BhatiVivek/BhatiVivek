@@ -71,4 +71,12 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/BhatiVivek/BhatiVivek/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ⭐ Always open to collaborating on interesting projects and learning opportunities.

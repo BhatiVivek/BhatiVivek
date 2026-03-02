@@ -74,7 +74,7 @@
 - Email: (vivekbhati9192@gmail.com)
 - ## 🤝 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/vivek-bhati-94324063/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
@@ -90,6 +90,7 @@
   <a href="https://medium.com/@vivekbhati9192" target="_blank">
     <img src="https://skillicons.dev/icons?i=medium" height="40"/>
   </a>
+  &nbsp;&nbsp;
 </p>
 
 ---

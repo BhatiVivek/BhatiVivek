@@ -91,7 +91,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://vivekbhati.vercel.app/" target="_blank">
-    <img src="https://vivekbhati.vercel.app/images/profile.png" width="800" alt="Vivek Portfolio Preview"/>
+    <img src="https://vivekbhati.vercel.app/images/profile.png" width="40" height="40" alt="Vivek Portfolio Preview"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@vivekbhati9192" target="_blank">

@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer | Full Stack Builder | AI-Augmented Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Vivek+Bhati;Senior+Software+Engineer;Full+Stack+Developer;AI-Augmented+Engineer;React+%7C+Node.js+%7C+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Scalable+React+Applications;Architecting+Enterprise+Frontend+Systems;Exploring+RAG+and+Agentic+AI;Focused+on+Performance+%26+Clean+Architecture;Turning+Ideas+into+Production+Systems" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BhatiVivek&show_icons=true&theme=tokyonight" />
 </p>
 
 ---

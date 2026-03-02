@@ -20,41 +20,48 @@
 - 🎯 Transitioning toward product-driven and AI-integrated system design  
 
 ---
-
 ## 🧠 AI & Modern Engineering
 
-![LLM](https://img.shields.io/badge/LLM-Integration-blue)
-![RAG](https://img.shields.io/badge/RAG-Systems-orange)
-![AI Agents](https://img.shields.io/badge/AI-Agents-red)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple)
+<p>
+  <img src="https://img.shields.io/badge/LLM-Integration-2563eb?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/RAG-Systems-f97316?style=for-the-badge&logo=googledrive&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AI-Agents-ef4444?style=for-the-badge&logo=robotframework&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Prompt-Engineering-a855f7?style=for-the-badge&logo=stackblitz&logoColor=white" height="28" />
+</p>
 
 ---
 
 ## ⚛️ Frontend Stack
 
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
-![AEM](https://img.shields.io/badge/AEM-Enterprise-black)
+<p>
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-1e40af?style=for-the-badge&logo=typescript&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Redux-4c1d95?style=for-the-badge&logo=redux&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GraphQL-9d174d?style=for-the-badge&logo=graphql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AEM-111827?style=for-the-badge&logo=adobe&logoColor=ff0000" height="28" />
+</p>
 
 ---
 
 ## 🔧 Backend & DevOps
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-grey?logo=express)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI-red?logo=jenkins)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Jenkins-b91c1c?style=for-the-badge&logo=jenkins&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AWS-f59e0b?style=for-the-badge&logo=amazonaws&logoColor=111827" height="28" />
+</p>
 
 ---
 
 ## 🧪 Testing & Quality
 
-![TDD](https://img.shields.io/badge/TDD-Practice-green)
-![Mocha](https://img.shields.io/badge/Mocha-Testing-brown?logo=mocha)
-![Chai](https://img.shields.io/badge/Chai-Assertion-A30701)
-![Cypress](https://img.shields.io/badge/Cypress-E2E-17202C?logo=cypress)
+<p>
+  <img src="https://img.shields.io/badge/TDD-16a34a?style=for-the-badge&logo=checkmarx&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Mocha-3f2d20?style=for-the-badge&logo=mocha&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Chai-a30701?style=for-the-badge&logo=chai&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Cypress-0f172a?style=for-the-badge&logo=cypress&logoColor=white" height="28" />
+</p>
 
 ---
 

@@ -66,12 +66,6 @@
 
 ---
 
-
-## 📫 Connect With Me
-
-- LinkedIn: (https://www.linkedin.com/in/vivek-bhati-94324063/)
-- Portfolio: (https://vivekbhati.vercel.app/)
-- Email: (vivekbhati9192@gmail.com)
 - ## 🤝 Connect with me
 
 <p align="left">

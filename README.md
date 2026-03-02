@@ -72,6 +72,25 @@
 - LinkedIn: (https://www.linkedin.com/in/vivek-bhati-94324063/)
 - Portfolio: (https://vivekbhati.vercel.app/)
 - Email: (vivekbhati9192@gmail.com)
+- ## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivek-bhati-94324063/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/BhatiVivek" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://vivekbhati.vercel.app/" target="_blank">
+    <img src="https://yourportfolio.com/preview-image.png" width="800" alt="Vivek Portfolio Preview"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@vivekbhati9192" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" height="40"/>
+  </a>
+</p>
 
 ---
 

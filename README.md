@@ -23,10 +23,10 @@
 ## 🧠 AI & Product Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/LLM-Integration-2563eb?style=flat-square&logo=openai&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/RAG-Systems-f59e0b?style=flat-square&logo=googledrive&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Autonomous-ef4444?style=flat-square&logo=robotframework&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Prompt-Engineering-8b5cf6?style=flat-square&logo=stackblitz&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/LLM%20%7C%20Integration-2563eb?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/RAG%20%7C%20Systems-f59e0b?style=for-the-badge&logo=googledrive&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AI%20Agents%20%7C%20Autonomous-ef4444?style=for-the-badge&logo=robotframework&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8b5cf6?style=for-the-badge&logo=stackblitz&logoColor=white" height="28" />
 </p>
 
 ---
@@ -81,8 +81,10 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhatiVivek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhatiVivek&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" height="28" />
+  <img src="https://img.shields.io/badge/Repositories-20%2B-181717?style=for-the-badge&logo=github" alt="Repositories" height="28" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-0ea5e9?style=for-the-badge&logo=codeberg" alt="Focus" height="28" />
+  <img src="https://img.shields.io/badge/Experience-12%2B%20Years-22c55e?style=for-the-badge&logo=clockify" alt="Experience" height="28" />
 </p>
 
 ---

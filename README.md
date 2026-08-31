@@ -23,10 +23,10 @@
 ## 🧠 AI & Modern Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/LLM-Integration-2563eb?style=for-the-badge&logo=openai&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/RAG-Systems-f97316?style=for-the-badge&logo=googledrive&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/AI-Agents-ef4444?style=for-the-badge&logo=robotframework&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Prompt-Engineering-a855f7?style=for-the-badge&logo=stackblitz&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLM-Integration-2563eb?style=flat-square&logo=openai&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/RAG-Systems-f59e0b?style=flat-square&logo=googledrive&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Autonomous-ef4444?style=flat-square&logo=robotframework&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Prompt-Engineering-8b5cf6?style=flat-square&logo=stackblitz&logoColor=white" height="28" />
 </p>
 
 ---
@@ -64,17 +64,12 @@
 </p>
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BhatiVivek&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhatiVivek&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="180"
-  />
+  <img src="https://img.shields.io/badge/Repositories-20%2B-181717?logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Architecture-0ea5e9?logo=react&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Experience-11%2B%20Years-22c55e?logo=clockify&logoColor=white" alt="Experience" />
 </p>
 
 ---
@@ -105,7 +100,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/BhatiVivek/BhatiVivek/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://img.shields.io/badge/Contribution%20Activity-Open%20to%20collaborate-8b5cf6?logo=githubactions&logoColor=white" alt="Contribution Activity" />
 </p>
 
 ---
